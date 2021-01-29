@@ -20,7 +20,7 @@ while(comp_score<10)and(user_score<10):
         if(comp_val=="rock"):
             print("yeah.......!!")
             user_score+=1
-        elif(comp_value=="paper"):
+        elif(comp_val=="paper"):
             print(".......!!")
         else:
             print("noooooo...!!")
